@@ -1,0 +1,11 @@
+Model Information:
+* title:	Inktober2020 - Wisp
+* source:	https://sketchfab.com/3d-models/inktober2020-wisp-ac9089b926fa4d4fb687bb0d00f9d10b
+* author:	FlyingIllustration (https://sketchfab.com/FlyingIllustration)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Inktober2020 - Wisp" (https://sketchfab.com/3d-models/inktober2020-wisp-ac9089b926fa4d4fb687bb0d00f9d10b) by FlyingIllustration (https://sketchfab.com/FlyingIllustration) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
